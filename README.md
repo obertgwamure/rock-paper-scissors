@@ -10,7 +10,7 @@ This is a rock paper scissors game made in HTML, CSS and Javascript
 
 ## Installation
 
-To play the game visit www.obertgwamure.github.io/rock-paper-scissors
+To play the game visit https://obertgwamure.github.io/rock-paper-scissors/
 
 
 ## Usage
